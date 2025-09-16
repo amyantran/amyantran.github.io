@@ -1,0 +1,134 @@
+
+
+/* Basic page style resets */
+* {
+  box-sizing: border-box;
+}
+[hidden] {
+  display: none !important;
+}
+
+h1{
+  font-family: "bad-dog", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+  font-family: "ff-providence-sans-web-pro", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    margin: 10px;
+    align-items: center;
+}
+
+.plant {
+  display: block;
+  flex: none;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "ff-providence-sans-web-pro", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+}
+
+.plantdiv {
+  text-align: center;
+  margin: 10px;
+  max-width: 150px;
+  line-height: 0.9;
+}
+
+.plantdiv p {
+  margin-top: 10px;
+  font-size: 10px;
+  text-align: center;
+}
+
+
+.plant1 {
+  background-image: url("IMG_0068.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant2 {
+  background-image: url("IMG_0069.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant3 {
+  background-image: url("IMG_0070.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant4 {
+  background-image: url("IMG_0071.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant5 {
+  background-image: url("IMG_0072.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant6 {
+  background-image: url("IMG_0073.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant7 {
+  background-image: url("IMG_0074.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant8 {
+  background-image: url("IMG_0075.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant9 {
+  background-image: url("IMG_0076.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+.plant10 {
+  background-image: url("IMG_0077.PNG");
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
